@@ -1,7 +1,7 @@
 [
   {
     "tag": "pre",
-    "innerHtml": "<code>             AN IDEAL HUSBAND\n\n\n                  A PLAY\n\n                    BY\n               OSCAR WILDE\n\n                * * * * *\n\n            METHUEN & CO. LTD.\n           36 ESSEX STREET W.C.\n                  LONDON\n\n                * * * * *\n\n_First Published_, _at 1s. net_, _in 1912_\n\n                * * * * *</code>"
+    "innerHtml": "<code>             AN IDEAL HUSBAND\n\n                  A PLAY\n\n                    BY\n               OSCAR WILDE\n\n                * * * * *\n\n            METHUEN & CO. LTD.\n           36 ESSEX STREET W.C.\n                  LONDON\n\n                * * * * *\n\n            First Published in 1912\n\n                * * * * *</code>"
   },
   {
     "tag": "h3",
@@ -68,6 +68,10 @@
     "innerHtml": "MRS. CHEVELEY"
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Scenes Of The Play"
   },
@@ -96,7 +100,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "THEATRE ROYAL, HAYMARKET"
+    "innerHtml": "Location: THEATRE ROYAL, HAYMARKET"
   },
   {
     "tag": "hr",
